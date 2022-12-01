@@ -17,8 +17,6 @@ java -XX:+UseG1GC Main
 java -XX:+UseZGC Main
 ```
 
-## 4. heap size
-```shell
-java 
-```
+
+
 
